@@ -1,4 +1,4 @@
-# Glossário Completo de Inteligência Artificial — 
+# Glossário Completo de Inteligência Artificial 
 # Português PT BR
 
 Mais de 220 termos de IA organizados em 13 categorias (mais uma seção de termos emergentes). Cada verbete traz **termo (sigla/tradução)**, uma definição curta e um exemplo simples do dia a dia.
